@@ -6,3 +6,4 @@ xgboost
 ta
 streamlit
 matplotlib
+pip install --upgrade scikit-learn
