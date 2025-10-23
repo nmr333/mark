@@ -2,8 +2,5 @@ yfinance
 pandas
 numpy
 scikit-learn
-xgboost
-ta
 streamlit
 matplotlib
-pip install --upgrade scikit-learn
